@@ -2,6 +2,7 @@
 .mvn
 HELP.md
 target/
+.smarttomcat
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/

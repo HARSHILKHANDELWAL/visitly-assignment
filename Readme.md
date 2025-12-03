@@ -36,8 +36,8 @@ Java \- Spring Boot authentication service with JWT, PostgreSQL persistence and 
     
     
     Roles are inserted
-    ADMIN
-    USER
+    ROLE_ADMIN
+    ROLE_USER
     
     The default user is assigned the ADMIN role 
     with the credentials to generate an admin JWT token for testing.
